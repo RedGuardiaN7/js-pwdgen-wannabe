@@ -2,3 +2,12 @@
     max-width: 200px;
     max-height: 200px;
 }
+
+.information-text{
+    font-weight: bold;
+    font-size:x-large
+}
+
+.user-info{
+    color: blueviolet;
+}
